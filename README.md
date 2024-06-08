@@ -8,4 +8,4 @@ This guide explains how to deploy a Spring Boot application using Docker on an A
 
 ### 1. Create a Spring Boot Application
 
-[First, create a Spring Boot application. You can use Spring Initializr to bootstrap your project:](https://medium.com/@rayanabonfanti/deploy-spring-boot-with-docker-in-ec2-aws-e5ddc5a8b57f)
+[Deploy Spring Boot with Docker in EC2 (AWS)](https://medium.com/@rayanabonfanti/deploy-spring-boot-with-docker-in-ec2-aws-e5ddc5a8b57f)
