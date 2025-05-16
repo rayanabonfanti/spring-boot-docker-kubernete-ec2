@@ -1,5 +1,0 @@
-logging:
-  file:
-    name: "/var/log/ec2/ec2.log"
-  level:
-    root: INFO
